@@ -1,0 +1,7 @@
+Hello, GisProject!
+
+This is my code.
+My name is Aizada. 
+I'm 20 years old.
+I am a fourth-year student at KazNU.
+---
